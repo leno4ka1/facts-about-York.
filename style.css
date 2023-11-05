@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+  background-color:#f5b400;
+  
+}
+
+#logo{
+    margin: 10px;
+}
+
+header a{
+    text-decoration: none;
+    background-color:#f0ca62;
+    color: aliceblue;
+    padding: 0px 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+
+.color{
+  color:aliceblue;
+border: 7px solid #dbc766;
+border-radius: 15px;
+  background-color:#f0ca62;
+}
+
+footer{
+    background-color:#ede07b ;
+}
+footer p{
+background-color: #ffeab0;
+border-radius: 10px;
+}
+
+nav{
+    background-color:#c7b071 ;
+    border-radius: 10px;
+    border: 7px solid #f7de99;
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.loli {
+  background-color:#bdb482;
+  
+}
+
+.lolol {
+    color:#968f77;
+border: 7px solid #2731c2;
+border-radius: 15px;
+
+}
+
+.privet {
+    color:#b5ac8f;
+border: 7px solid #fff1c4;
+}
+
+.lop{
+    background-color:#968f77;
+    border-radius: 15px;
+}
+
+.lpopik {
+    color: aliceblue
+    text-decoration: none;
+    background-color: #c7bea1 ;
+    border-radius: 15px;
+}
+
+.Waktu{
+     color: aliceblue
+    text-decoration: none;
+    background-color: #c7bea1 ;
+    border-radius: 15px;
+}
+
+table{
+   background-color:#c7b071 ;  
+}
+
+.dog{
+     color: aliceblue
+    text-decoration: none;
+    background-color: #ede4af ;
+    border-radius: 10px;
+}
